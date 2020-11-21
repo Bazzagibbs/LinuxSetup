@@ -8,9 +8,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'doums/darcula'
 Plug 'dense-analysis/ale'
 
-colorscheme darcula
-set termguicolors
-
 call plug#end()
 
+colorscheme darcula
+set termguicolors
 

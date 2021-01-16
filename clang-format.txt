@@ -1,9 +1,13 @@
 ﻿---
 BasedOnStyle: LLVM
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments: 'true'
 AlignOperands: 'true'
+AlignTrailingComments: 'true'
 BinPackArguments: 'false'
 BinPackParameters: 'false'
-ConstructorInitializerAllOnOneLineOrOnePerLine: 'false'
+ColumnLimit: '120'
 IndentWidth: '4'
+TabWidth: '4'
 
 ...
